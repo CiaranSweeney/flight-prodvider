@@ -1,0 +1,2302 @@
+<Availability>
+    <Flight>
+        <CarrierCode>EI</CarrierCode>
+        <FlightDesignator>EI554</FlightDesignator>
+        <OriginAirport>IST</OriginAirport>
+        <DestinationAirport>DUB</DestinationAirport>
+        <DepartureDate>2014-01-02T10:48:00.000Z</DepartureDate>
+        <ArrivalDate>2014-01-02T13:04:00.000Z</ArrivalDate>
+        <Fares>
+            <Fare class="FIF">
+                <BasePrice>EUR 272.00</BasePrice>
+                <Fees>EUR 17.00</Fees>
+                <Tax>EUR 13.60</Tax>
+            </Fare>
+            <Fare class="CIF">
+                <BasePrice>EUR 136.00</BasePrice>
+                <Fees>EUR 17.00</Fees>
+                <Tax>EUR 13.60</Tax>
+            </Fare>
+            <Fare class="YIF">
+                <BasePrice>EUR 68.00</BasePrice>
+                <Fees>EUR 17.00</Fees>
+                <Tax>EUR 13.60</Tax>
+            </Fare>
+        </Fares>
+    </Flight>
+    <Flight>
+        <CarrierCode>EI</CarrierCode>
+        <FlightDesignator>EI520</FlightDesignator>
+        <OriginAirport>BOS</OriginAirport>
+        <DestinationAirport>DUB</DestinationAirport>
+        <DepartureDate>2014-01-05T02:03:00.000Z</DepartureDate>
+        <ArrivalDate>2014-01-05T07:15:00.000Z</ArrivalDate>
+        <Fares>
+            <Fare class="FIF">
+                <BasePrice>EUR 1248.00</BasePrice>
+                <Fees>EUR 78.00</Fees>
+                <Tax>EUR 62.40</Tax>
+            </Fare>
+            <Fare class="CIF">
+                <BasePrice>EUR 624.00</BasePrice>
+                <Fees>EUR 78.00</Fees>
+                <Tax>EUR 62.40</Tax>
+            </Fare>
+            <Fare class="YIF">
+                <BasePrice>EUR 312.00</BasePrice>
+                <Fees>EUR 78.00</Fees>
+                <Tax>EUR 62.40</Tax>
+            </Fare>
+        </Fares>
+    </Flight>
+    <Flight>
+        <CarrierCode>EI</CarrierCode>
+        <FlightDesignator>EI239</FlightDesignator>
+        <OriginAirport>LHR</OriginAirport>
+        <DestinationAirport>DUB</DestinationAirport>
+        <DepartureDate>2014-01-06T17:56:00.000Z</DepartureDate>
+        <ArrivalDate>2014-01-06T20:20:00.000Z</ArrivalDate>
+        <Fares>
+            <Fare class="FIF">
+                <BasePrice>EUR 144.00</BasePrice>
+                <Fees>EUR 9.00</Fees>
+                <Tax>EUR 7.20</Tax>
+            </Fare>
+            <Fare class="CIF">
+                <BasePrice>EUR 72.00</BasePrice>
+                <Fees>EUR 9.00</Fees>
+                <Tax>EUR 7.20</Tax>
+            </Fare>
+            <Fare class="YIF">
+                <BasePrice>EUR 36.00</BasePrice>
+                <Fees>EUR 9.00</Fees>
+                <Tax>EUR 7.20</Tax>
+            </Fare>
+        </Fares>
+    </Flight>
+    <Flight>
+        <CarrierCode>EI</CarrierCode>
+        <FlightDesignator>EI169</FlightDesignator>
+        <OriginAirport>DUB</OriginAirport>
+        <DestinationAirport>IST</DestinationAirport>
+        <DepartureDate>2014-01-18T12:52:00.000Z</DepartureDate>
+        <ArrivalDate>2014-01-18T18:23:00.000Z</ArrivalDate>
+        <Fares>
+            <Fare class="FIF">
+                <BasePrice>EUR 656.00</BasePrice>
+                <Fees>EUR 41.00</Fees>
+                <Tax>EUR 32.80</Tax>
+            </Fare>
+            <Fare class="CIF">
+                <BasePrice>EUR 328.00</BasePrice>
+                <Fees>EUR 41.00</Fees>
+                <Tax>EUR 32.80</Tax>
+            </Fare>
+            <Fare class="YIF">
+                <BasePrice>EUR 164.00</BasePrice>
+                <Fees>EUR 41.00</Fees>
+                <Tax>EUR 32.80</Tax>
+            </Fare>
+        </Fares>
+    </Flight>
+    <Flight>
+        <CarrierCode>EI</CarrierCode>
+        <FlightDesignator>EI69</FlightDesignator>
+        <OriginAirport>JFK</OriginAirport>
+        <DestinationAirport>MUC</DestinationAirport>
+        <DepartureDate>2014-01-23T10:50:00.000Z</DepartureDate>
+        <ArrivalDate>2014-01-23T16:53:00.000Z</ArrivalDate>
+        <Fares>
+            <Fare class="FIF">
+                <BasePrice>EUR 1440.00</BasePrice>
+                <Fees>EUR 90.00</Fees>
+                <Tax>EUR 72.00</Tax>
+            </Fare>
+            <Fare class="CIF">
+                <BasePrice>EUR 720.00</BasePrice>
+                <Fees>EUR 90.00</Fees>
+                <Tax>EUR 72.00</Tax>
+            </Fare>
+            <Fare class="YIF">
+                <BasePrice>EUR 360.00</BasePrice>
+                <Fees>EUR 90.00</Fees>
+                <Tax>EUR 72.00</Tax>
+            </Fare>
+        </Fares>
+    </Flight>
+    <Flight>
+        <CarrierCode>EI</CarrierCode>
+        <FlightDesignator>EI295</FlightDesignator>
+        <OriginAirport>MUC</OriginAirport>
+        <DestinationAirport>BOS</DestinationAirport>
+        <DepartureDate>2014-01-24T20:14:00.000Z</DepartureDate>
+        <ArrivalDate>2014-01-25T01:50:00.000Z</ArrivalDate>
+        <Fares>
+            <Fare class="FIF">
+                <BasePrice>EUR 336.00</BasePrice>
+                <Fees>EUR 21.00</Fees>
+                <Tax>EUR 16.80</Tax>
+            </Fare>
+            <Fare class="CIF">
+                <BasePrice>EUR 168.00</BasePrice>
+                <Fees>EUR 21.00</Fees>
+                <Tax>EUR 16.80</Tax>
+            </Fare>
+            <Fare class="YIF">
+                <BasePrice>EUR 84.00</BasePrice>
+                <Fees>EUR 21.00</Fees>
+                <Tax>EUR 16.80</Tax>
+            </Fare>
+        </Fares>
+    </Flight>
+    <Flight>
+        <CarrierCode>EI</CarrierCode>
+        <FlightDesignator>EI168</FlightDesignator>
+        <OriginAirport>BOS</OriginAirport>
+        <DestinationAirport>JFK</DestinationAirport>
+        <DepartureDate>2014-01-26T08:22:00.000Z</DepartureDate>
+        <ArrivalDate>2014-01-26T14:25:00.000Z</ArrivalDate>
+        <Fares>
+            <Fare class="FIF">
+                <BasePrice>EUR 1440.00</BasePrice>
+                <Fees>EUR 90.00</Fees>
+                <Tax>EUR 72.00</Tax>
+            </Fare>
+            <Fare class="CIF">
+                <BasePrice>EUR 720.00</BasePrice>
+                <Fees>EUR 90.00</Fees>
+                <Tax>EUR 72.00</Tax>
+            </Fare>
+            <Fare class="YIF">
+                <BasePrice>EUR 360.00</BasePrice>
+                <Fees>EUR 90.00</Fees>
+                <Tax>EUR 72.00</Tax>
+            </Fare>
+        </Fares>
+    </Flight>
+    <Flight>
+        <CarrierCode>EI</CarrierCode>
+        <FlightDesignator>EI326</FlightDesignator>
+        <OriginAirport>MUC</OriginAirport>
+        <DestinationAirport>LHR</DestinationAirport>
+        <DepartureDate>2014-01-30T05:41:00.000Z</DepartureDate>
+        <ArrivalDate>2014-01-30T07:32:00.000Z</ArrivalDate>
+        <Fares>
+            <Fare class="FIF">
+                <BasePrice>EUR 108.00</BasePrice>
+                <Fees>EUR 6.75</Fees>
+                <Tax>EUR 5.40</Tax>
+            </Fare>
+            <Fare class="CIF">
+                <BasePrice>EUR 54.00</BasePrice>
+                <Fees>EUR 6.75</Fees>
+                <Tax>EUR 5.40</Tax>
+            </Fare>
+            <Fare class="YIF">
+                <BasePrice>EUR 27.00</BasePrice>
+                <Fees>EUR 6.75</Fees>
+                <Tax>EUR 5.40</Tax>
+            </Fare>
+        </Fares>
+    </Flight>
+    <Flight>
+        <CarrierCode>EI</CarrierCode>
+        <FlightDesignator>EI336</FlightDesignator>
+        <OriginAirport>LHR</OriginAirport>
+        <DestinationAirport>IST</DestinationAirport>
+        <DepartureDate>2014-01-31T14:50:00.000Z</DepartureDate>
+        <ArrivalDate>2014-01-31T21:06:00.000Z</ArrivalDate>
+        <Fares>
+            <Fare class="FIF">
+                <BasePrice>EUR 1504.00</BasePrice>
+                <Fees>EUR 94.00</Fees>
+                <Tax>EUR 75.20</Tax>
+            </Fare>
+            <Fare class="CIF">
+                <BasePrice>EUR 752.00</BasePrice>
+                <Fees>EUR 94.00</Fees>
+                <Tax>EUR 75.20</Tax>
+            </Fare>
+            <Fare class="YIF">
+                <BasePrice>EUR 376.00</BasePrice>
+                <Fees>EUR 94.00</Fees>
+                <Tax>EUR 75.20</Tax>
+            </Fare>
+        </Fares>
+    </Flight>
+    <Flight>
+        <CarrierCode>EI</CarrierCode>
+        <FlightDesignator>EI431</FlightDesignator>
+        <OriginAirport>DUB</OriginAirport>
+        <DestinationAirport>MUC</DestinationAirport>
+        <DepartureDate>2014-01-31T17:47:00.000Z</DepartureDate>
+        <ArrivalDate>2014-01-31T20:13:00.000Z</ArrivalDate>
+        <Fares>
+            <Fare class="FIF">
+                <BasePrice>EUR 576.00</BasePrice>
+                <Fees>EUR 36.00</Fees>
+                <Tax>EUR 28.80</Tax>
+            </Fare>
+            <Fare class="CIF">
+                <BasePrice>EUR 288.00</BasePrice>
+                <Fees>EUR 36.00</Fees>
+                <Tax>EUR 28.80</Tax>
+            </Fare>
+            <Fare class="YIF">
+                <BasePrice>EUR 144.00</BasePrice>
+                <Fees>EUR 36.00</Fees>
+                <Tax>EUR 28.80</Tax>
+            </Fare>
+        </Fares>
+    </Flight>
+    <Flight>
+        <CarrierCode>EI</CarrierCode>
+        <FlightDesignator>EI282</FlightDesignator>
+        <OriginAirport>JFK</OriginAirport>
+        <DestinationAirport>IST</DestinationAirport>
+        <DepartureDate>2014-02-08T07:37:00.000Z</DepartureDate>
+        <ArrivalDate>2014-02-08T10:56:00.000Z</ArrivalDate>
+        <Fares>
+            <Fare class="FIF">
+                <BasePrice>EUR 588.00</BasePrice>
+                <Fees>EUR 36.75</Fees>
+                <Tax>EUR 29.40</Tax>
+            </Fare>
+            <Fare class="CIF">
+                <BasePrice>EUR 294.00</BasePrice>
+                <Fees>EUR 36.75</Fees>
+                <Tax>EUR 29.40</Tax>
+            </Fare>
+            <Fare class="YIF">
+                <BasePrice>EUR 147.00</BasePrice>
+                <Fees>EUR 36.75</Fees>
+                <Tax>EUR 29.40</Tax>
+            </Fare>
+        </Fares>
+    </Flight>
+    <Flight>
+        <CarrierCode>EI</CarrierCode>
+        <FlightDesignator>EI547</FlightDesignator>
+        <OriginAirport>BOS</OriginAirport>
+        <DestinationAirport>DUB</DestinationAirport>
+        <DepartureDate>2014-02-11T05:13:00.000Z</DepartureDate>
+        <ArrivalDate>2014-02-11T07:06:00.000Z</ArrivalDate>
+        <Fares>
+            <Fare class="FIF">
+                <BasePrice>EUR 112.00</BasePrice>
+                <Fees>EUR 7.00</Fees>
+                <Tax>EUR 5.60</Tax>
+            </Fare>
+            <Fare class="CIF">
+                <BasePrice>EUR 56.00</BasePrice>
+                <Fees>EUR 7.00</Fees>
+                <Tax>EUR 5.60</Tax>
+            </Fare>
+            <Fare class="YIF">
+                <BasePrice>EUR 28.00</BasePrice>
+                <Fees>EUR 7.00</Fees>
+                <Tax>EUR 5.60</Tax>
+            </Fare>
+        </Fares>
+    </Flight>
+    <Flight>
+        <CarrierCode>EI</CarrierCode>
+        <FlightDesignator>EI399</FlightDesignator>
+        <OriginAirport>IST</OriginAirport>
+        <DestinationAirport>BOS</DestinationAirport>
+        <DepartureDate>2014-02-12T15:35:00.000Z</DepartureDate>
+        <ArrivalDate>2014-02-12T19:39:00.000Z</ArrivalDate>
+        <Fares>
+            <Fare class="FIF">
+                <BasePrice>EUR 732.00</BasePrice>
+                <Fees>EUR 45.75</Fees>
+                <Tax>EUR 36.60</Tax>
+            </Fare>
+            <Fare class="CIF">
+                <BasePrice>EUR 366.00</BasePrice>
+                <Fees>EUR 45.75</Fees>
+                <Tax>EUR 36.60</Tax>
+            </Fare>
+            <Fare class="YIF">
+                <BasePrice>EUR 183.00</BasePrice>
+                <Fees>EUR 45.75</Fees>
+                <Tax>EUR 36.60</Tax>
+            </Fare>
+        </Fares>
+    </Flight>
+    <Flight>
+        <CarrierCode>EI</CarrierCode>
+        <FlightDesignator>EI126</FlightDesignator>
+        <OriginAirport>JFK</OriginAirport>
+        <DestinationAirport>LHR</DestinationAirport>
+        <DepartureDate>2014-02-12T16:53:00.000Z</DepartureDate>
+        <ArrivalDate>2014-02-12T20:45:00.000Z</ArrivalDate>
+        <Fares>
+            <Fare class="FIF">
+                <BasePrice>EUR 696.00</BasePrice>
+                <Fees>EUR 43.50</Fees>
+                <Tax>EUR 34.80</Tax>
+            </Fare>
+            <Fare class="CIF">
+                <BasePrice>EUR 348.00</BasePrice>
+                <Fees>EUR 43.50</Fees>
+                <Tax>EUR 34.80</Tax>
+            </Fare>
+            <Fare class="YIF">
+                <BasePrice>EUR 174.00</BasePrice>
+                <Fees>EUR 43.50</Fees>
+                <Tax>EUR 34.80</Tax>
+            </Fare>
+        </Fares>
+    </Flight>
+    <Flight>
+        <CarrierCode>EI</CarrierCode>
+        <FlightDesignator>EI596</FlightDesignator>
+        <OriginAirport>DUB</OriginAirport>
+        <DestinationAirport>IST</DestinationAirport>
+        <DepartureDate>2014-02-14T22:50:00.000Z</DepartureDate>
+        <ArrivalDate>2014-02-15T03:57:00.000Z</ArrivalDate>
+        <Fares>
+            <Fare class="FIF">
+                <BasePrice>EUR 304.00</BasePrice>
+                <Fees>EUR 19.00</Fees>
+                <Tax>EUR 15.20</Tax>
+            </Fare>
+            <Fare class="CIF">
+                <BasePrice>EUR 152.00</BasePrice>
+                <Fees>EUR 19.00</Fees>
+                <Tax>EUR 15.20</Tax>
+            </Fare>
+            <Fare class="YIF">
+                <BasePrice>EUR 76.00</BasePrice>
+                <Fees>EUR 19.00</Fees>
+                <Tax>EUR 15.20</Tax>
+            </Fare>
+        </Fares>
+    </Flight>
+    <Flight>
+        <CarrierCode>EI</CarrierCode>
+        <FlightDesignator>EI578</FlightDesignator>
+        <OriginAirport>DUB</OriginAirport>
+        <DestinationAirport>JFK</DestinationAirport>
+        <DepartureDate>2014-02-16T16:16:00.000Z</DepartureDate>
+        <ArrivalDate>2014-02-16T21:41:00.000Z</ArrivalDate>
+        <Fares>
+            <Fare class="FIF">
+                <BasePrice>EUR 1296.00</BasePrice>
+                <Fees>EUR 81.00</Fees>
+                <Tax>EUR 64.80</Tax>
+            </Fare>
+            <Fare class="CIF">
+                <BasePrice>EUR 648.00</BasePrice>
+                <Fees>EUR 81.00</Fees>
+                <Tax>EUR 64.80</Tax>
+            </Fare>
+            <Fare class="YIF">
+                <BasePrice>EUR 324.00</BasePrice>
+                <Fees>EUR 81.00</Fees>
+                <Tax>EUR 64.80</Tax>
+            </Fare>
+        </Fares>
+    </Flight>
+    <Flight>
+        <CarrierCode>EI</CarrierCode>
+        <FlightDesignator>EI443</FlightDesignator>
+        <OriginAirport>JFK</OriginAirport>
+        <DestinationAirport>BOS</DestinationAirport>
+        <DepartureDate>2014-02-19T16:33:00.000Z</DepartureDate>
+        <ArrivalDate>2014-02-19T18:46:00.000Z</ArrivalDate>
+        <Fares>
+            <Fare class="FIF">
+                <BasePrice>EUR 264.00</BasePrice>
+                <Fees>EUR 16.50</Fees>
+                <Tax>EUR 13.20</Tax>
+            </Fare>
+            <Fare class="CIF">
+                <BasePrice>EUR 132.00</BasePrice>
+                <Fees>EUR 16.50</Fees>
+                <Tax>EUR 13.20</Tax>
+            </Fare>
+            <Fare class="YIF">
+                <BasePrice>EUR 66.00</BasePrice>
+                <Fees>EUR 16.50</Fees>
+                <Tax>EUR 13.20</Tax>
+            </Fare>
+        </Fares>
+    </Flight>
+    <Flight>
+        <CarrierCode>EI</CarrierCode>
+        <FlightDesignator>EI18</FlightDesignator>
+        <OriginAirport>LHR</OriginAirport>
+        <DestinationAirport>DUB</DestinationAirport>
+        <DepartureDate>2014-03-04T09:54:00.000Z</DepartureDate>
+        <ArrivalDate>2014-03-04T12:39:00.000Z</ArrivalDate>
+        <Fares>
+            <Fare class="FIF">
+                <BasePrice>EUR 328.00</BasePrice>
+                <Fees>EUR 20.50</Fees>
+                <Tax>EUR 16.40</Tax>
+            </Fare>
+            <Fare class="CIF">
+                <BasePrice>EUR 164.00</BasePrice>
+                <Fees>EUR 20.50</Fees>
+                <Tax>EUR 16.40</Tax>
+            </Fare>
+            <Fare class="YIF">
+                <BasePrice>EUR 82.00</BasePrice>
+                <Fees>EUR 20.50</Fees>
+                <Tax>EUR 16.40</Tax>
+            </Fare>
+        </Fares>
+    </Flight>
+    <Flight>
+        <CarrierCode>EI</CarrierCode>
+        <FlightDesignator>EI585</FlightDesignator>
+        <OriginAirport>LHR</OriginAirport>
+        <DestinationAirport>DUB</DestinationAirport>
+        <DepartureDate>2014-03-04T21:20:00.000Z</DepartureDate>
+        <ArrivalDate>2014-03-05T01:22:00.000Z</ArrivalDate>
+        <Fares>
+            <Fare class="FIF">
+                <BasePrice>EUR 720.00</BasePrice>
+                <Fees>EUR 45.00</Fees>
+                <Tax>EUR 36.00</Tax>
+            </Fare>
+            <Fare class="CIF">
+                <BasePrice>EUR 360.00</BasePrice>
+                <Fees>EUR 45.00</Fees>
+                <Tax>EUR 36.00</Tax>
+            </Fare>
+            <Fare class="YIF">
+                <BasePrice>EUR 180.00</BasePrice>
+                <Fees>EUR 45.00</Fees>
+                <Tax>EUR 36.00</Tax>
+            </Fare>
+        </Fares>
+    </Flight>
+    <Flight>
+        <CarrierCode>EI</CarrierCode>
+        <FlightDesignator>EI207</FlightDesignator>
+        <OriginAirport>LHR</OriginAirport>
+        <DestinationAirport>IST</DestinationAirport>
+        <DepartureDate>2014-03-05T21:19:00.000Z</DepartureDate>
+        <ArrivalDate>2014-03-05T22:51:00.000Z</ArrivalDate>
+        <Fares>
+            <Fare class="FIF">
+                <BasePrice>EUR 368.00</BasePrice>
+                <Fees>EUR 23.00</Fees>
+                <Tax>EUR 18.40</Tax>
+            </Fare>
+            <Fare class="CIF">
+                <BasePrice>EUR 184.00</BasePrice>
+                <Fees>EUR 23.00</Fees>
+                <Tax>EUR 18.40</Tax>
+            </Fare>
+            <Fare class="YIF">
+                <BasePrice>EUR 92.00</BasePrice>
+                <Fees>EUR 23.00</Fees>
+                <Tax>EUR 18.40</Tax>
+            </Fare>
+        </Fares>
+    </Flight>
+    <Flight>
+        <CarrierCode>EI</CarrierCode>
+        <FlightDesignator>EI363</FlightDesignator>
+        <OriginAirport>BOS</OriginAirport>
+        <DestinationAirport>LHR</DestinationAirport>
+        <DepartureDate>2014-03-09T12:38:00.000Z</DepartureDate>
+        <ArrivalDate>2014-03-09T15:39:00.000Z</ArrivalDate>
+        <Fares>
+            <Fare class="FIF">
+                <BasePrice>EUR 180.00</BasePrice>
+                <Fees>EUR 11.25</Fees>
+                <Tax>EUR 9.00</Tax>
+            </Fare>
+            <Fare class="CIF">
+                <BasePrice>EUR 90.00</BasePrice>
+                <Fees>EUR 11.25</Fees>
+                <Tax>EUR 9.00</Tax>
+            </Fare>
+            <Fare class="YIF">
+                <BasePrice>EUR 45.00</BasePrice>
+                <Fees>EUR 11.25</Fees>
+                <Tax>EUR 9.00</Tax>
+            </Fare>
+        </Fares>
+    </Flight>
+    <Flight>
+        <CarrierCode>EI</CarrierCode>
+        <FlightDesignator>EI206</FlightDesignator>
+        <OriginAirport>LHR</OriginAirport>
+        <DestinationAirport>BOS</DestinationAirport>
+        <DepartureDate>2014-03-13T20:43:00.000Z</DepartureDate>
+        <ArrivalDate>2014-03-13T23:06:00.000Z</ArrivalDate>
+        <Fares>
+            <Fare class="FIF">
+                <BasePrice>EUR 140.00</BasePrice>
+                <Fees>EUR 8.75</Fees>
+                <Tax>EUR 7.00</Tax>
+            </Fare>
+            <Fare class="CIF">
+                <BasePrice>EUR 70.00</BasePrice>
+                <Fees>EUR 8.75</Fees>
+                <Tax>EUR 7.00</Tax>
+            </Fare>
+            <Fare class="YIF">
+                <BasePrice>EUR 35.00</BasePrice>
+                <Fees>EUR 8.75</Fees>
+                <Tax>EUR 7.00</Tax>
+            </Fare>
+        </Fares>
+    </Flight>
+    <Flight>
+        <CarrierCode>EI</CarrierCode>
+        <FlightDesignator>EI21</FlightDesignator>
+        <OriginAirport>DUB</OriginAirport>
+        <DestinationAirport>LHR</DestinationAirport>
+        <DepartureDate>2014-03-18T17:23:00.000Z</DepartureDate>
+        <ArrivalDate>2014-03-18T21:42:00.000Z</ArrivalDate>
+        <Fares>
+            <Fare class="FIF">
+                <BasePrice>EUR 512.00</BasePrice>
+                <Fees>EUR 32.00</Fees>
+                <Tax>EUR 25.60</Tax>
+            </Fare>
+            <Fare class="CIF">
+                <BasePrice>EUR 256.00</BasePrice>
+                <Fees>EUR 32.00</Fees>
+                <Tax>EUR 25.60</Tax>
+            </Fare>
+            <Fare class="YIF">
+                <BasePrice>EUR 128.00</BasePrice>
+                <Fees>EUR 32.00</Fees>
+                <Tax>EUR 25.60</Tax>
+            </Fare>
+        </Fares>
+    </Flight>
+    <Flight>
+        <CarrierCode>EI</CarrierCode>
+        <FlightDesignator>EI406</FlightDesignator>
+        <OriginAirport>JFK</OriginAirport>
+        <DestinationAirport>IST</DestinationAirport>
+        <DepartureDate>2014-03-26T05:50:00.000Z</DepartureDate>
+        <ArrivalDate>2014-03-26T10:48:00.000Z</ArrivalDate>
+        <Fares>
+            <Fare class="FIF">
+                <BasePrice>EUR 888.00</BasePrice>
+                <Fees>EUR 55.50</Fees>
+                <Tax>EUR 44.40</Tax>
+            </Fare>
+            <Fare class="CIF">
+                <BasePrice>EUR 444.00</BasePrice>
+                <Fees>EUR 55.50</Fees>
+                <Tax>EUR 44.40</Tax>
+            </Fare>
+            <Fare class="YIF">
+                <BasePrice>EUR 222.00</BasePrice>
+                <Fees>EUR 55.50</Fees>
+                <Tax>EUR 44.40</Tax>
+            </Fare>
+        </Fares>
+    </Flight>
+    <Flight>
+        <CarrierCode>EI</CarrierCode>
+        <FlightDesignator>EI160</FlightDesignator>
+        <OriginAirport>MUC</OriginAirport>
+        <DestinationAirport>DUB</DestinationAirport>
+        <DepartureDate>2014-04-01T22:21:00.000Z</DepartureDate>
+        <ArrivalDate>2014-04-02T03:17:00.000Z</ArrivalDate>
+        <Fares>
+            <Fare class="FIF">
+                <BasePrice>EUR 888.00</BasePrice>
+                <Fees>EUR 55.50</Fees>
+                <Tax>EUR 44.40</Tax>
+            </Fare>
+            <Fare class="CIF">
+                <BasePrice>EUR 444.00</BasePrice>
+                <Fees>EUR 55.50</Fees>
+                <Tax>EUR 44.40</Tax>
+            </Fare>
+            <Fare class="YIF">
+                <BasePrice>EUR 222.00</BasePrice>
+                <Fees>EUR 55.50</Fees>
+                <Tax>EUR 44.40</Tax>
+            </Fare>
+        </Fares>
+    </Flight>
+    <Flight>
+        <CarrierCode>EI</CarrierCode>
+        <FlightDesignator>EI52</FlightDesignator>
+        <OriginAirport>DUB</OriginAirport>
+        <DestinationAirport>MUC</DestinationAirport>
+        <DepartureDate>2014-04-01T23:40:00.000Z</DepartureDate>
+        <ArrivalDate>2014-04-02T05:04:00.000Z</ArrivalDate>
+        <Fares>
+            <Fare class="FIF">
+                <BasePrice>EUR 972.00</BasePrice>
+                <Fees>EUR 60.75</Fees>
+                <Tax>EUR 48.60</Tax>
+            </Fare>
+            <Fare class="CIF">
+                <BasePrice>EUR 486.00</BasePrice>
+                <Fees>EUR 60.75</Fees>
+                <Tax>EUR 48.60</Tax>
+            </Fare>
+            <Fare class="YIF">
+                <BasePrice>EUR 243.00</BasePrice>
+                <Fees>EUR 60.75</Fees>
+                <Tax>EUR 48.60</Tax>
+            </Fare>
+        </Fares>
+    </Flight>
+    <Flight>
+        <CarrierCode>EI</CarrierCode>
+        <FlightDesignator>EI114</FlightDesignator>
+        <OriginAirport>IST</OriginAirport>
+        <DestinationAirport>LHR</DestinationAirport>
+        <DepartureDate>2014-04-05T11:20:00.000Z</DepartureDate>
+        <ArrivalDate>2014-04-05T13:43:00.000Z</ArrivalDate>
+        <Fares>
+            <Fare class="FIF">
+                <BasePrice>EUR 140.00</BasePrice>
+                <Fees>EUR 8.75</Fees>
+                <Tax>EUR 7.00</Tax>
+            </Fare>
+            <Fare class="CIF">
+                <BasePrice>EUR 70.00</BasePrice>
+                <Fees>EUR 8.75</Fees>
+                <Tax>EUR 7.00</Tax>
+            </Fare>
+            <Fare class="YIF">
+                <BasePrice>EUR 35.00</BasePrice>
+                <Fees>EUR 8.75</Fees>
+                <Tax>EUR 7.00</Tax>
+            </Fare>
+        </Fares>
+    </Flight>
+    <Flight>
+        <CarrierCode>EI</CarrierCode>
+        <FlightDesignator>EI413</FlightDesignator>
+        <OriginAirport>IST</OriginAirport>
+        <DestinationAirport>DUB</DestinationAirport>
+        <DepartureDate>2014-04-20T15:38:00.000Z</DepartureDate>
+        <ArrivalDate>2014-04-20T20:19:00.000Z</ArrivalDate>
+        <Fares>
+            <Fare class="FIF">
+                <BasePrice>EUR 560.00</BasePrice>
+                <Fees>EUR 35.00</Fees>
+                <Tax>EUR 28.00</Tax>
+            </Fare>
+            <Fare class="CIF">
+                <BasePrice>EUR 280.00</BasePrice>
+                <Fees>EUR 35.00</Fees>
+                <Tax>EUR 28.00</Tax>
+            </Fare>
+            <Fare class="YIF">
+                <BasePrice>EUR 140.00</BasePrice>
+                <Fees>EUR 35.00</Fees>
+                <Tax>EUR 28.00</Tax>
+            </Fare>
+        </Fares>
+    </Flight>
+    <Flight>
+        <CarrierCode>EI</CarrierCode>
+        <FlightDesignator>EI313</FlightDesignator>
+        <OriginAirport>DUB</OriginAirport>
+        <DestinationAirport>IST</DestinationAirport>
+        <DepartureDate>2014-04-21T16:07:00.000Z</DepartureDate>
+        <ArrivalDate>2014-04-21T18:18:00.000Z</ArrivalDate>
+        <Fares>
+            <Fare class="FIF">
+                <BasePrice>EUR 128.00</BasePrice>
+                <Fees>EUR 8.00</Fees>
+                <Tax>EUR 6.40</Tax>
+            </Fare>
+            <Fare class="CIF">
+                <BasePrice>EUR 64.00</BasePrice>
+                <Fees>EUR 8.00</Fees>
+                <Tax>EUR 6.40</Tax>
+            </Fare>
+            <Fare class="YIF">
+                <BasePrice>EUR 32.00</BasePrice>
+                <Fees>EUR 8.00</Fees>
+                <Tax>EUR 6.40</Tax>
+            </Fare>
+        </Fares>
+    </Flight>
+    <Flight>
+        <CarrierCode>EI</CarrierCode>
+        <FlightDesignator>EI73</FlightDesignator>
+        <OriginAirport>MUC</OriginAirport>
+        <DestinationAirport>BOS</DestinationAirport>
+        <DepartureDate>2014-04-21T17:48:00.000Z</DepartureDate>
+        <ArrivalDate>2014-04-21T23:15:00.000Z</ArrivalDate>
+        <Fares>
+            <Fare class="FIF">
+                <BasePrice>EUR 972.00</BasePrice>
+                <Fees>EUR 60.75</Fees>
+                <Tax>EUR 48.60</Tax>
+            </Fare>
+            <Fare class="CIF">
+                <BasePrice>EUR 486.00</BasePrice>
+                <Fees>EUR 60.75</Fees>
+                <Tax>EUR 48.60</Tax>
+            </Fare>
+            <Fare class="YIF">
+                <BasePrice>EUR 243.00</BasePrice>
+                <Fees>EUR 60.75</Fees>
+                <Tax>EUR 48.60</Tax>
+            </Fare>
+        </Fares>
+    </Flight>
+    <Flight>
+        <CarrierCode>EI</CarrierCode>
+        <FlightDesignator>EI97</FlightDesignator>
+        <OriginAirport>LHR</OriginAirport>
+        <DestinationAirport>BOS</DestinationAirport>
+        <DepartureDate>2014-04-23T16:10:00.000Z</DepartureDate>
+        <ArrivalDate>2014-04-23T22:07:00.000Z</ArrivalDate>
+        <Fares>
+            <Fare class="FIF">
+                <BasePrice>EUR 1424.00</BasePrice>
+                <Fees>EUR 89.00</Fees>
+                <Tax>EUR 71.20</Tax>
+            </Fare>
+            <Fare class="CIF">
+                <BasePrice>EUR 712.00</BasePrice>
+                <Fees>EUR 89.00</Fees>
+                <Tax>EUR 71.20</Tax>
+            </Fare>
+            <Fare class="YIF">
+                <BasePrice>EUR 356.00</BasePrice>
+                <Fees>EUR 89.00</Fees>
+                <Tax>EUR 71.20</Tax>
+            </Fare>
+        </Fares>
+    </Flight>
+    <Flight>
+        <CarrierCode>EI</CarrierCode>
+        <FlightDesignator>EI573</FlightDesignator>
+        <OriginAirport>MUC</OriginAirport>
+        <DestinationAirport>DUB</DestinationAirport>
+        <DepartureDate>2014-05-03T14:53:00.000Z</DepartureDate>
+        <ArrivalDate>2014-05-03T16:44:00.000Z</ArrivalDate>
+        <Fares>
+            <Fare class="FIF">
+                <BasePrice>EUR 432.00</BasePrice>
+                <Fees>EUR 27.00</Fees>
+                <Tax>EUR 21.60</Tax>
+            </Fare>
+            <Fare class="CIF">
+                <BasePrice>EUR 216.00</BasePrice>
+                <Fees>EUR 27.00</Fees>
+                <Tax>EUR 21.60</Tax>
+            </Fare>
+            <Fare class="YIF">
+                <BasePrice>EUR 108.00</BasePrice>
+                <Fees>EUR 27.00</Fees>
+                <Tax>EUR 21.60</Tax>
+            </Fare>
+        </Fares>
+    </Flight>
+    <Flight>
+        <CarrierCode>EI</CarrierCode>
+        <FlightDesignator>EI151</FlightDesignator>
+        <OriginAirport>LHR</OriginAirport>
+        <DestinationAirport>DUB</DestinationAirport>
+        <DepartureDate>2014-05-06T05:26:00.000Z</DepartureDate>
+        <ArrivalDate>2014-05-06T11:56:00.000Z</ArrivalDate>
+        <Fares>
+            <Fare class="FIF">
+                <BasePrice>EUR 1552.00</BasePrice>
+                <Fees>EUR 97.00</Fees>
+                <Tax>EUR 77.60</Tax>
+            </Fare>
+            <Fare class="CIF">
+                <BasePrice>EUR 776.00</BasePrice>
+                <Fees>EUR 97.00</Fees>
+                <Tax>EUR 77.60</Tax>
+            </Fare>
+            <Fare class="YIF">
+                <BasePrice>EUR 388.00</BasePrice>
+                <Fees>EUR 97.00</Fees>
+                <Tax>EUR 77.60</Tax>
+            </Fare>
+        </Fares>
+    </Flight>
+    <Flight>
+        <CarrierCode>EI</CarrierCode>
+        <FlightDesignator>EI89</FlightDesignator>
+        <OriginAirport>JFK</OriginAirport>
+        <DestinationAirport>LHR</DestinationAirport>
+        <DepartureDate>2014-05-09T04:30:00.000Z</DepartureDate>
+        <ArrivalDate>2014-05-09T08:20:00.000Z</ArrivalDate>
+        <Fares>
+            <Fare class="FIF">
+                <BasePrice>EUR 228.00</BasePrice>
+                <Fees>EUR 14.25</Fees>
+                <Tax>EUR 11.40</Tax>
+            </Fare>
+            <Fare class="CIF">
+                <BasePrice>EUR 114.00</BasePrice>
+                <Fees>EUR 14.25</Fees>
+                <Tax>EUR 11.40</Tax>
+            </Fare>
+            <Fare class="YIF">
+                <BasePrice>EUR 57.00</BasePrice>
+                <Fees>EUR 14.25</Fees>
+                <Tax>EUR 11.40</Tax>
+            </Fare>
+        </Fares>
+    </Flight>
+    <Flight>
+        <CarrierCode>EI</CarrierCode>
+        <FlightDesignator>EI109</FlightDesignator>
+        <OriginAirport>MUC</OriginAirport>
+        <DestinationAirport>JFK</DestinationAirport>
+        <DepartureDate>2014-05-12T20:37:00.000Z</DepartureDate>
+        <ArrivalDate>2014-05-13T02:07:00.000Z</ArrivalDate>
+        <Fares>
+            <Fare class="FIF">
+                <BasePrice>EUR 328.00</BasePrice>
+                <Fees>EUR 20.50</Fees>
+                <Tax>EUR 16.40</Tax>
+            </Fare>
+            <Fare class="CIF">
+                <BasePrice>EUR 164.00</BasePrice>
+                <Fees>EUR 20.50</Fees>
+                <Tax>EUR 16.40</Tax>
+            </Fare>
+            <Fare class="YIF">
+                <BasePrice>EUR 82.00</BasePrice>
+                <Fees>EUR 20.50</Fees>
+                <Tax>EUR 16.40</Tax>
+            </Fare>
+        </Fares>
+    </Flight>
+    <Flight>
+        <CarrierCode>EI</CarrierCode>
+        <FlightDesignator>EI579</FlightDesignator>
+        <OriginAirport>MUC</OriginAirport>
+        <DestinationAirport>DUB</DestinationAirport>
+        <DepartureDate>2014-05-17T11:14:00.000Z</DepartureDate>
+        <ArrivalDate>2014-05-17T14:52:00.000Z</ArrivalDate>
+        <Fares>
+            <Fare class="FIF">
+                <BasePrice>EUR 216.00</BasePrice>
+                <Fees>EUR 13.50</Fees>
+                <Tax>EUR 10.80</Tax>
+            </Fare>
+            <Fare class="CIF">
+                <BasePrice>EUR 108.00</BasePrice>
+                <Fees>EUR 13.50</Fees>
+                <Tax>EUR 10.80</Tax>
+            </Fare>
+            <Fare class="YIF">
+                <BasePrice>EUR 54.00</BasePrice>
+                <Fees>EUR 13.50</Fees>
+                <Tax>EUR 10.80</Tax>
+            </Fare>
+        </Fares>
+    </Flight>
+    <Flight>
+        <CarrierCode>EI</CarrierCode>
+        <FlightDesignator>EI341</FlightDesignator>
+        <OriginAirport>BOS</OriginAirport>
+        <DestinationAirport>JFK</DestinationAirport>
+        <DepartureDate>2014-05-26T06:31:00.000Z</DepartureDate>
+        <ArrivalDate>2014-05-26T09:53:00.000Z</ArrivalDate>
+        <Fares>
+            <Fare class="FIF">
+                <BasePrice>EUR 200.00</BasePrice>
+                <Fees>EUR 12.50</Fees>
+                <Tax>EUR 10.00</Tax>
+            </Fare>
+            <Fare class="CIF">
+                <BasePrice>EUR 100.00</BasePrice>
+                <Fees>EUR 12.50</Fees>
+                <Tax>EUR 10.00</Tax>
+            </Fare>
+            <Fare class="YIF">
+                <BasePrice>EUR 50.00</BasePrice>
+                <Fees>EUR 12.50</Fees>
+                <Tax>EUR 10.00</Tax>
+            </Fare>
+        </Fares>
+    </Flight>
+    <Flight>
+        <CarrierCode>EI</CarrierCode>
+        <FlightDesignator>EI48</FlightDesignator>
+        <OriginAirport>DUB</OriginAirport>
+        <DestinationAirport>JFK</DestinationAirport>
+        <DepartureDate>2014-05-27T09:57:00.000Z</DepartureDate>
+        <ArrivalDate>2014-05-27T13:07:00.000Z</ArrivalDate>
+        <Fares>
+            <Fare class="FIF">
+                <BasePrice>EUR 752.00</BasePrice>
+                <Fees>EUR 47.00</Fees>
+                <Tax>EUR 37.60</Tax>
+            </Fare>
+            <Fare class="CIF">
+                <BasePrice>EUR 376.00</BasePrice>
+                <Fees>EUR 47.00</Fees>
+                <Tax>EUR 37.60</Tax>
+            </Fare>
+            <Fare class="YIF">
+                <BasePrice>EUR 188.00</BasePrice>
+                <Fees>EUR 47.00</Fees>
+                <Tax>EUR 37.60</Tax>
+            </Fare>
+        </Fares>
+    </Flight>
+    <Flight>
+        <CarrierCode>EI</CarrierCode>
+        <FlightDesignator>EI188</FlightDesignator>
+        <OriginAirport>BOS</OriginAirport>
+        <DestinationAirport>DUB</DestinationAirport>
+        <DepartureDate>2014-05-29T23:36:00.000Z</DepartureDate>
+        <ArrivalDate>2014-05-30T04:18:00.000Z</ArrivalDate>
+        <Fares>
+            <Fare class="FIF">
+                <BasePrice>EUR 280.00</BasePrice>
+                <Fees>EUR 17.50</Fees>
+                <Tax>EUR 14.00</Tax>
+            </Fare>
+            <Fare class="CIF">
+                <BasePrice>EUR 140.00</BasePrice>
+                <Fees>EUR 17.50</Fees>
+                <Tax>EUR 14.00</Tax>
+            </Fare>
+            <Fare class="YIF">
+                <BasePrice>EUR 70.00</BasePrice>
+                <Fees>EUR 17.50</Fees>
+                <Tax>EUR 14.00</Tax>
+            </Fare>
+        </Fares>
+    </Flight>
+    <Flight>
+        <CarrierCode>EI</CarrierCode>
+        <FlightDesignator>EI95</FlightDesignator>
+        <OriginAirport>LHR</OriginAirport>
+        <DestinationAirport>MUC</DestinationAirport>
+        <DepartureDate>2014-05-31T20:28:00.000Z</DepartureDate>
+        <ArrivalDate>2014-06-01T01:46:00.000Z</ArrivalDate>
+        <Fares>
+            <Fare class="FIF">
+                <BasePrice>EUR 948.00</BasePrice>
+                <Fees>EUR 59.25</Fees>
+                <Tax>EUR 47.40</Tax>
+            </Fare>
+            <Fare class="CIF">
+                <BasePrice>EUR 474.00</BasePrice>
+                <Fees>EUR 59.25</Fees>
+                <Tax>EUR 47.40</Tax>
+            </Fare>
+            <Fare class="YIF">
+                <BasePrice>EUR 237.00</BasePrice>
+                <Fees>EUR 59.25</Fees>
+                <Tax>EUR 47.40</Tax>
+            </Fare>
+        </Fares>
+    </Flight>
+    <Flight>
+        <CarrierCode>EI</CarrierCode>
+        <FlightDesignator>EI519</FlightDesignator>
+        <OriginAirport>IST</OriginAirport>
+        <DestinationAirport>JFK</DestinationAirport>
+        <DepartureDate>2014-06-03T10:28:00.000Z</DepartureDate>
+        <ArrivalDate>2014-06-03T15:05:00.000Z</ArrivalDate>
+        <Fares>
+            <Fare class="FIF">
+                <BasePrice>EUR 276.00</BasePrice>
+                <Fees>EUR 17.25</Fees>
+                <Tax>EUR 13.80</Tax>
+            </Fare>
+            <Fare class="CIF">
+                <BasePrice>EUR 138.00</BasePrice>
+                <Fees>EUR 17.25</Fees>
+                <Tax>EUR 13.80</Tax>
+            </Fare>
+            <Fare class="YIF">
+                <BasePrice>EUR 69.00</BasePrice>
+                <Fees>EUR 17.25</Fees>
+                <Tax>EUR 13.80</Tax>
+            </Fare>
+        </Fares>
+    </Flight>
+    <Flight>
+        <CarrierCode>EI</CarrierCode>
+        <FlightDesignator>EI483</FlightDesignator>
+        <OriginAirport>JFK</OriginAirport>
+        <DestinationAirport>DUB</DestinationAirport>
+        <DepartureDate>2014-06-05T17:53:00.000Z</DepartureDate>
+        <ArrivalDate>2014-06-05T23:10:00.000Z</ArrivalDate>
+        <Fares>
+            <Fare class="FIF">
+                <BasePrice>EUR 632.00</BasePrice>
+                <Fees>EUR 39.50</Fees>
+                <Tax>EUR 31.60</Tax>
+            </Fare>
+            <Fare class="CIF">
+                <BasePrice>EUR 316.00</BasePrice>
+                <Fees>EUR 39.50</Fees>
+                <Tax>EUR 31.60</Tax>
+            </Fare>
+            <Fare class="YIF">
+                <BasePrice>EUR 158.00</BasePrice>
+                <Fees>EUR 39.50</Fees>
+                <Tax>EUR 31.60</Tax>
+            </Fare>
+        </Fares>
+    </Flight>
+    <Flight>
+        <CarrierCode>EI</CarrierCode>
+        <FlightDesignator>EI429</FlightDesignator>
+        <OriginAirport>IST</OriginAirport>
+        <DestinationAirport>MUC</DestinationAirport>
+        <DepartureDate>2014-06-09T18:39:00.000Z</DepartureDate>
+        <ArrivalDate>2014-06-09T23:48:00.000Z</ArrivalDate>
+        <Fares>
+            <Fare class="FIF">
+                <BasePrice>EUR 1232.00</BasePrice>
+                <Fees>EUR 77.00</Fees>
+                <Tax>EUR 61.60</Tax>
+            </Fare>
+            <Fare class="CIF">
+                <BasePrice>EUR 616.00</BasePrice>
+                <Fees>EUR 77.00</Fees>
+                <Tax>EUR 61.60</Tax>
+            </Fare>
+            <Fare class="YIF">
+                <BasePrice>EUR 308.00</BasePrice>
+                <Fees>EUR 77.00</Fees>
+                <Tax>EUR 61.60</Tax>
+            </Fare>
+        </Fares>
+    </Flight>
+    <Flight>
+        <CarrierCode>EI</CarrierCode>
+        <FlightDesignator>EI339</FlightDesignator>
+        <OriginAirport>MUC</OriginAirport>
+        <DestinationAirport>IST</DestinationAirport>
+        <DepartureDate>2014-06-10T03:37:00.000Z</DepartureDate>
+        <ArrivalDate>2014-06-10T05:12:00.000Z</ArrivalDate>
+        <Fares>
+            <Fare class="FIF">
+                <BasePrice>EUR 184.00</BasePrice>
+                <Fees>EUR 11.50</Fees>
+                <Tax>EUR 9.20</Tax>
+            </Fare>
+            <Fare class="CIF">
+                <BasePrice>EUR 92.00</BasePrice>
+                <Fees>EUR 11.50</Fees>
+                <Tax>EUR 9.20</Tax>
+            </Fare>
+            <Fare class="YIF">
+                <BasePrice>EUR 46.00</BasePrice>
+                <Fees>EUR 11.50</Fees>
+                <Tax>EUR 9.20</Tax>
+            </Fare>
+        </Fares>
+    </Flight>
+    <Flight>
+        <CarrierCode>EI</CarrierCode>
+        <FlightDesignator>EI251</FlightDesignator>
+        <OriginAirport>JFK</OriginAirport>
+        <DestinationAirport>BOS</DestinationAirport>
+        <DepartureDate>2014-06-19T17:02:00.000Z</DepartureDate>
+        <ArrivalDate>2014-06-19T22:10:00.000Z</ArrivalDate>
+        <Fares>
+            <Fare class="FIF">
+                <BasePrice>EUR 924.00</BasePrice>
+                <Fees>EUR 57.75</Fees>
+                <Tax>EUR 46.20</Tax>
+            </Fare>
+            <Fare class="CIF">
+                <BasePrice>EUR 462.00</BasePrice>
+                <Fees>EUR 57.75</Fees>
+                <Tax>EUR 46.20</Tax>
+            </Fare>
+            <Fare class="YIF">
+                <BasePrice>EUR 231.00</BasePrice>
+                <Fees>EUR 57.75</Fees>
+                <Tax>EUR 46.20</Tax>
+            </Fare>
+        </Fares>
+    </Flight>
+    <Flight>
+        <CarrierCode>EI</CarrierCode>
+        <FlightDesignator>EI292</FlightDesignator>
+        <OriginAirport>BOS</OriginAirport>
+        <DestinationAirport>IST</DestinationAirport>
+        <DepartureDate>2014-06-21T22:20:00.000Z</DepartureDate>
+        <ArrivalDate>2014-06-22T04:43:00.000Z</ArrivalDate>
+        <Fares>
+            <Fare class="FIF">
+                <BasePrice>EUR 1140.00</BasePrice>
+                <Fees>EUR 71.25</Fees>
+                <Tax>EUR 57.00</Tax>
+            </Fare>
+            <Fare class="CIF">
+                <BasePrice>EUR 570.00</BasePrice>
+                <Fees>EUR 71.25</Fees>
+                <Tax>EUR 57.00</Tax>
+            </Fare>
+            <Fare class="YIF">
+                <BasePrice>EUR 285.00</BasePrice>
+                <Fees>EUR 71.25</Fees>
+                <Tax>EUR 57.00</Tax>
+            </Fare>
+        </Fares>
+    </Flight>
+    <Flight>
+        <CarrierCode>EI</CarrierCode>
+        <FlightDesignator>EI569</FlightDesignator>
+        <OriginAirport>JFK</OriginAirport>
+        <DestinationAirport>IST</DestinationAirport>
+        <DepartureDate>2014-06-22T16:30:00.000Z</DepartureDate>
+        <ArrivalDate>2014-06-22T22:10:00.000Z</ArrivalDate>
+        <Fares>
+            <Fare class="FIF">
+                <BasePrice>EUR 340.00</BasePrice>
+                <Fees>EUR 21.25</Fees>
+                <Tax>EUR 17.00</Tax>
+            </Fare>
+            <Fare class="CIF">
+                <BasePrice>EUR 170.00</BasePrice>
+                <Fees>EUR 21.25</Fees>
+                <Tax>EUR 17.00</Tax>
+            </Fare>
+            <Fare class="YIF">
+                <BasePrice>EUR 85.00</BasePrice>
+                <Fees>EUR 21.25</Fees>
+                <Tax>EUR 17.00</Tax>
+            </Fare>
+        </Fares>
+    </Flight>
+    <Flight>
+        <CarrierCode>EI</CarrierCode>
+        <FlightDesignator>EI397</FlightDesignator>
+        <OriginAirport>JFK</OriginAirport>
+        <DestinationAirport>IST</DestinationAirport>
+        <DepartureDate>2014-06-24T18:44:00.000Z</DepartureDate>
+        <ArrivalDate>2014-06-24T21:00:00.000Z</ArrivalDate>
+        <Fares>
+            <Fare class="FIF">
+                <BasePrice>EUR 408.00</BasePrice>
+                <Fees>EUR 25.50</Fees>
+                <Tax>EUR 20.40</Tax>
+            </Fare>
+            <Fare class="CIF">
+                <BasePrice>EUR 204.00</BasePrice>
+                <Fees>EUR 25.50</Fees>
+                <Tax>EUR 20.40</Tax>
+            </Fare>
+            <Fare class="YIF">
+                <BasePrice>EUR 102.00</BasePrice>
+                <Fees>EUR 25.50</Fees>
+                <Tax>EUR 20.40</Tax>
+            </Fare>
+        </Fares>
+    </Flight>
+    <Flight>
+        <CarrierCode>EI</CarrierCode>
+        <FlightDesignator>EI514</FlightDesignator>
+        <OriginAirport>JFK</OriginAirport>
+        <DestinationAirport>MUC</DestinationAirport>
+        <DepartureDate>2014-06-27T14:21:00.000Z</DepartureDate>
+        <ArrivalDate>2014-06-27T18:38:00.000Z</ArrivalDate>
+        <Fares>
+            <Fare class="FIF">
+                <BasePrice>EUR 1024.00</BasePrice>
+                <Fees>EUR 64.00</Fees>
+                <Tax>EUR 51.20</Tax>
+            </Fare>
+            <Fare class="CIF">
+                <BasePrice>EUR 512.00</BasePrice>
+                <Fees>EUR 64.00</Fees>
+                <Tax>EUR 51.20</Tax>
+            </Fare>
+            <Fare class="YIF">
+                <BasePrice>EUR 256.00</BasePrice>
+                <Fees>EUR 64.00</Fees>
+                <Tax>EUR 51.20</Tax>
+            </Fare>
+        </Fares>
+    </Flight>
+    <Flight>
+        <CarrierCode>EI</CarrierCode>
+        <FlightDesignator>EI281</FlightDesignator>
+        <OriginAirport>LHR</OriginAirport>
+        <DestinationAirport>IST</DestinationAirport>
+        <DepartureDate>2014-06-29T18:19:00.000Z</DepartureDate>
+        <ArrivalDate>2014-06-29T21:53:00.000Z</ArrivalDate>
+        <Fares>
+            <Fare class="FIF">
+                <BasePrice>EUR 424.00</BasePrice>
+                <Fees>EUR 26.50</Fees>
+                <Tax>EUR 21.20</Tax>
+            </Fare>
+            <Fare class="CIF">
+                <BasePrice>EUR 212.00</BasePrice>
+                <Fees>EUR 26.50</Fees>
+                <Tax>EUR 21.20</Tax>
+            </Fare>
+            <Fare class="YIF">
+                <BasePrice>EUR 106.00</BasePrice>
+                <Fees>EUR 26.50</Fees>
+                <Tax>EUR 21.20</Tax>
+            </Fare>
+        </Fares>
+    </Flight>
+    <Flight>
+        <CarrierCode>EI</CarrierCode>
+        <FlightDesignator>EI555</FlightDesignator>
+        <OriginAirport>LHR</OriginAirport>
+        <DestinationAirport>BOS</DestinationAirport>
+        <DepartureDate>2014-07-03T12:58:00.000Z</DepartureDate>
+        <ArrivalDate>2014-07-03T15:11:00.000Z</ArrivalDate>
+        <Fares>
+            <Fare class="FIF">
+                <BasePrice>EUR 396.00</BasePrice>
+                <Fees>EUR 24.75</Fees>
+                <Tax>EUR 19.80</Tax>
+            </Fare>
+            <Fare class="CIF">
+                <BasePrice>EUR 198.00</BasePrice>
+                <Fees>EUR 24.75</Fees>
+                <Tax>EUR 19.80</Tax>
+            </Fare>
+            <Fare class="YIF">
+                <BasePrice>EUR 99.00</BasePrice>
+                <Fees>EUR 24.75</Fees>
+                <Tax>EUR 19.80</Tax>
+            </Fare>
+        </Fares>
+    </Flight>
+    <Flight>
+        <CarrierCode>EI</CarrierCode>
+        <FlightDesignator>EI502</FlightDesignator>
+        <OriginAirport>IST</OriginAirport>
+        <DestinationAirport>DUB</DestinationAirport>
+        <DepartureDate>2014-07-08T17:25:00.000Z</DepartureDate>
+        <ArrivalDate>2014-07-08T21:08:00.000Z</ArrivalDate>
+        <Fares>
+            <Fare class="FIF">
+                <BasePrice>EUR 880.00</BasePrice>
+                <Fees>EUR 55.00</Fees>
+                <Tax>EUR 44.00</Tax>
+            </Fare>
+            <Fare class="CIF">
+                <BasePrice>EUR 440.00</BasePrice>
+                <Fees>EUR 55.00</Fees>
+                <Tax>EUR 44.00</Tax>
+            </Fare>
+            <Fare class="YIF">
+                <BasePrice>EUR 220.00</BasePrice>
+                <Fees>EUR 55.00</Fees>
+                <Tax>EUR 44.00</Tax>
+            </Fare>
+        </Fares>
+    </Flight>
+    <Flight>
+        <CarrierCode>EI</CarrierCode>
+        <FlightDesignator>EI531</FlightDesignator>
+        <OriginAirport>JFK</OriginAirport>
+        <DestinationAirport>DUB</DestinationAirport>
+        <DepartureDate>2014-07-12T08:42:00.000Z</DepartureDate>
+        <ArrivalDate>2014-07-12T11:05:00.000Z</ArrivalDate>
+        <Fares>
+            <Fare class="FIF">
+                <BasePrice>EUR 280.00</BasePrice>
+                <Fees>EUR 17.50</Fees>
+                <Tax>EUR 14.00</Tax>
+            </Fare>
+            <Fare class="CIF">
+                <BasePrice>EUR 140.00</BasePrice>
+                <Fees>EUR 17.50</Fees>
+                <Tax>EUR 14.00</Tax>
+            </Fare>
+            <Fare class="YIF">
+                <BasePrice>EUR 70.00</BasePrice>
+                <Fees>EUR 17.50</Fees>
+                <Tax>EUR 14.00</Tax>
+            </Fare>
+        </Fares>
+    </Flight>
+    <Flight>
+        <CarrierCode>EI</CarrierCode>
+        <FlightDesignator>EI110</FlightDesignator>
+        <OriginAirport>BOS</OriginAirport>
+        <DestinationAirport>DUB</DestinationAirport>
+        <DepartureDate>2014-07-19T07:43:00.000Z</DepartureDate>
+        <ArrivalDate>2014-07-19T13:39:00.000Z</ArrivalDate>
+        <Fares>
+            <Fare class="FIF">
+                <BasePrice>EUR 1424.00</BasePrice>
+                <Fees>EUR 89.00</Fees>
+                <Tax>EUR 71.20</Tax>
+            </Fare>
+            <Fare class="CIF">
+                <BasePrice>EUR 712.00</BasePrice>
+                <Fees>EUR 89.00</Fees>
+                <Tax>EUR 71.20</Tax>
+            </Fare>
+            <Fare class="YIF">
+                <BasePrice>EUR 356.00</BasePrice>
+                <Fees>EUR 89.00</Fees>
+                <Tax>EUR 71.20</Tax>
+            </Fare>
+        </Fares>
+    </Flight>
+    <Flight>
+        <CarrierCode>EI</CarrierCode>
+        <FlightDesignator>EI511</FlightDesignator>
+        <OriginAirport>IST</OriginAirport>
+        <DestinationAirport>JFK</DestinationAirport>
+        <DepartureDate>2014-07-29T06:51:00.000Z</DepartureDate>
+        <ArrivalDate>2014-07-29T10:09:00.000Z</ArrivalDate>
+        <Fares>
+            <Fare class="FIF">
+                <BasePrice>EUR 196.00</BasePrice>
+                <Fees>EUR 12.25</Fees>
+                <Tax>EUR 9.80</Tax>
+            </Fare>
+            <Fare class="CIF">
+                <BasePrice>EUR 98.00</BasePrice>
+                <Fees>EUR 12.25</Fees>
+                <Tax>EUR 9.80</Tax>
+            </Fare>
+            <Fare class="YIF">
+                <BasePrice>EUR 49.00</BasePrice>
+                <Fees>EUR 12.25</Fees>
+                <Tax>EUR 9.80</Tax>
+            </Fare>
+        </Fares>
+    </Flight>
+    <Flight>
+        <CarrierCode>EI</CarrierCode>
+        <FlightDesignator>EI172</FlightDesignator>
+        <OriginAirport>MUC</OriginAirport>
+        <DestinationAirport>LHR</DestinationAirport>
+        <DepartureDate>2014-08-10T06:50:00.000Z</DepartureDate>
+        <ArrivalDate>2014-08-10T11:04:00.000Z</ArrivalDate>
+        <Fares>
+            <Fare class="FIF">
+                <BasePrice>EUR 504.00</BasePrice>
+                <Fees>EUR 31.50</Fees>
+                <Tax>EUR 25.20</Tax>
+            </Fare>
+            <Fare class="CIF">
+                <BasePrice>EUR 252.00</BasePrice>
+                <Fees>EUR 31.50</Fees>
+                <Tax>EUR 25.20</Tax>
+            </Fare>
+            <Fare class="YIF">
+                <BasePrice>EUR 126.00</BasePrice>
+                <Fees>EUR 31.50</Fees>
+                <Tax>EUR 25.20</Tax>
+            </Fare>
+        </Fares>
+    </Flight>
+    <Flight>
+        <CarrierCode>EI</CarrierCode>
+        <FlightDesignator>EI435</FlightDesignator>
+        <OriginAirport>IST</OriginAirport>
+        <DestinationAirport>MUC</DestinationAirport>
+        <DepartureDate>2014-08-11T01:49:00.000Z</DepartureDate>
+        <ArrivalDate>2014-08-11T07:01:00.000Z</ArrivalDate>
+        <Fares>
+            <Fare class="FIF">
+                <BasePrice>EUR 1248.00</BasePrice>
+                <Fees>EUR 78.00</Fees>
+                <Tax>EUR 62.40</Tax>
+            </Fare>
+            <Fare class="CIF">
+                <BasePrice>EUR 624.00</BasePrice>
+                <Fees>EUR 78.00</Fees>
+                <Tax>EUR 62.40</Tax>
+            </Fare>
+            <Fare class="YIF">
+                <BasePrice>EUR 312.00</BasePrice>
+                <Fees>EUR 78.00</Fees>
+                <Tax>EUR 62.40</Tax>
+            </Fare>
+        </Fares>
+    </Flight>
+    <Flight>
+        <CarrierCode>EI</CarrierCode>
+        <FlightDesignator>EI163</FlightDesignator>
+        <OriginAirport>JFK</OriginAirport>
+        <DestinationAirport>MUC</DestinationAirport>
+        <DepartureDate>2014-08-20T06:19:00.000Z</DepartureDate>
+        <ArrivalDate>2014-08-20T08:16:00.000Z</ArrivalDate>
+        <Fares>
+            <Fare class="FIF">
+                <BasePrice>EUR 116.00</BasePrice>
+                <Fees>EUR 7.25</Fees>
+                <Tax>EUR 5.80</Tax>
+            </Fare>
+            <Fare class="CIF">
+                <BasePrice>EUR 58.00</BasePrice>
+                <Fees>EUR 7.25</Fees>
+                <Tax>EUR 5.80</Tax>
+            </Fare>
+            <Fare class="YIF">
+                <BasePrice>EUR 29.00</BasePrice>
+                <Fees>EUR 7.25</Fees>
+                <Tax>EUR 5.80</Tax>
+            </Fare>
+        </Fares>
+    </Flight>
+    <Flight>
+        <CarrierCode>EI</CarrierCode>
+        <FlightDesignator>EI387</FlightDesignator>
+        <OriginAirport>LHR</OriginAirport>
+        <DestinationAirport>IST</DestinationAirport>
+        <DepartureDate>2014-08-22T09:11:00.000Z</DepartureDate>
+        <ArrivalDate>2014-08-22T14:38:00.000Z</ArrivalDate>
+        <Fares>
+            <Fare class="FIF">
+                <BasePrice>EUR 1296.00</BasePrice>
+                <Fees>EUR 81.00</Fees>
+                <Tax>EUR 64.80</Tax>
+            </Fare>
+            <Fare class="CIF">
+                <BasePrice>EUR 648.00</BasePrice>
+                <Fees>EUR 81.00</Fees>
+                <Tax>EUR 64.80</Tax>
+            </Fare>
+            <Fare class="YIF">
+                <BasePrice>EUR 324.00</BasePrice>
+                <Fees>EUR 81.00</Fees>
+                <Tax>EUR 64.80</Tax>
+            </Fare>
+        </Fares>
+    </Flight>
+    <Flight>
+        <CarrierCode>EI</CarrierCode>
+        <FlightDesignator>EI105</FlightDesignator>
+        <OriginAirport>MUC</OriginAirport>
+        <DestinationAirport>IST</DestinationAirport>
+        <DepartureDate>2014-08-27T10:50:00.000Z</DepartureDate>
+        <ArrivalDate>2014-08-27T14:18:00.000Z</ArrivalDate>
+        <Fares>
+            <Fare class="FIF">
+                <BasePrice>EUR 416.00</BasePrice>
+                <Fees>EUR 26.00</Fees>
+                <Tax>EUR 20.80</Tax>
+            </Fare>
+            <Fare class="CIF">
+                <BasePrice>EUR 208.00</BasePrice>
+                <Fees>EUR 26.00</Fees>
+                <Tax>EUR 20.80</Tax>
+            </Fare>
+            <Fare class="YIF">
+                <BasePrice>EUR 104.00</BasePrice>
+                <Fees>EUR 26.00</Fees>
+                <Tax>EUR 20.80</Tax>
+            </Fare>
+        </Fares>
+    </Flight>
+    <Flight>
+        <CarrierCode>EI</CarrierCode>
+        <FlightDesignator>EI591</FlightDesignator>
+        <OriginAirport>MUC</OriginAirport>
+        <DestinationAirport>LHR</DestinationAirport>
+        <DepartureDate>2014-08-27T20:30:00.000Z</DepartureDate>
+        <ArrivalDate>2014-08-28T01:37:00.000Z</ArrivalDate>
+        <Fares>
+            <Fare class="FIF">
+                <BasePrice>EUR 608.00</BasePrice>
+                <Fees>EUR 38.00</Fees>
+                <Tax>EUR 30.40</Tax>
+            </Fare>
+            <Fare class="CIF">
+                <BasePrice>EUR 304.00</BasePrice>
+                <Fees>EUR 38.00</Fees>
+                <Tax>EUR 30.40</Tax>
+            </Fare>
+            <Fare class="YIF">
+                <BasePrice>EUR 152.00</BasePrice>
+                <Fees>EUR 38.00</Fees>
+                <Tax>EUR 30.40</Tax>
+            </Fare>
+        </Fares>
+    </Flight>
+    <Flight>
+        <CarrierCode>EI</CarrierCode>
+        <FlightDesignator>EI223</FlightDesignator>
+        <OriginAirport>MUC</OriginAirport>
+        <DestinationAirport>IST</DestinationAirport>
+        <DepartureDate>2014-08-30T09:08:00.000Z</DepartureDate>
+        <ArrivalDate>2014-08-30T10:57:00.000Z</ArrivalDate>
+        <Fares>
+            <Fare class="FIF">
+                <BasePrice>EUR 324.00</BasePrice>
+                <Fees>EUR 20.25</Fees>
+                <Tax>EUR 16.20</Tax>
+            </Fare>
+            <Fare class="CIF">
+                <BasePrice>EUR 162.00</BasePrice>
+                <Fees>EUR 20.25</Fees>
+                <Tax>EUR 16.20</Tax>
+            </Fare>
+            <Fare class="YIF">
+                <BasePrice>EUR 81.00</BasePrice>
+                <Fees>EUR 20.25</Fees>
+                <Tax>EUR 16.20</Tax>
+            </Fare>
+        </Fares>
+    </Flight>
+    <Flight>
+        <CarrierCode>EI</CarrierCode>
+        <FlightDesignator>EI317</FlightDesignator>
+        <OriginAirport>DUB</OriginAirport>
+        <DestinationAirport>JFK</DestinationAirport>
+        <DepartureDate>2014-09-04T10:26:00.000Z</DepartureDate>
+        <ArrivalDate>2014-09-04T16:28:00.000Z</ArrivalDate>
+        <Fares>
+            <Fare class="FIF">
+                <BasePrice>EUR 360.00</BasePrice>
+                <Fees>EUR 22.50</Fees>
+                <Tax>EUR 18.00</Tax>
+            </Fare>
+            <Fare class="CIF">
+                <BasePrice>EUR 180.00</BasePrice>
+                <Fees>EUR 22.50</Fees>
+                <Tax>EUR 18.00</Tax>
+            </Fare>
+            <Fare class="YIF">
+                <BasePrice>EUR 90.00</BasePrice>
+                <Fees>EUR 22.50</Fees>
+                <Tax>EUR 18.00</Tax>
+            </Fare>
+        </Fares>
+    </Flight>
+    <Flight>
+        <CarrierCode>EI</CarrierCode>
+        <FlightDesignator>EI127</FlightDesignator>
+        <OriginAirport>BOS</OriginAirport>
+        <DestinationAirport>IST</DestinationAirport>
+        <DepartureDate>2014-09-06T19:37:00.000Z</DepartureDate>
+        <ArrivalDate>2014-09-06T23:13:00.000Z</ArrivalDate>
+        <Fares>
+            <Fare class="FIF">
+                <BasePrice>EUR 864.00</BasePrice>
+                <Fees>EUR 54.00</Fees>
+                <Tax>EUR 43.20</Tax>
+            </Fare>
+            <Fare class="CIF">
+                <BasePrice>EUR 432.00</BasePrice>
+                <Fees>EUR 54.00</Fees>
+                <Tax>EUR 43.20</Tax>
+            </Fare>
+            <Fare class="YIF">
+                <BasePrice>EUR 216.00</BasePrice>
+                <Fees>EUR 54.00</Fees>
+                <Tax>EUR 43.20</Tax>
+            </Fare>
+        </Fares>
+    </Flight>
+    <Flight>
+        <CarrierCode>EI</CarrierCode>
+        <FlightDesignator>EI264</FlightDesignator>
+        <OriginAirport>IST</OriginAirport>
+        <DestinationAirport>MUC</DestinationAirport>
+        <DepartureDate>2014-09-08T07:36:00.000Z</DepartureDate>
+        <ArrivalDate>2014-09-08T11:07:00.000Z</ArrivalDate>
+        <Fares>
+            <Fare class="FIF">
+                <BasePrice>EUR 416.00</BasePrice>
+                <Fees>EUR 26.00</Fees>
+                <Tax>EUR 20.80</Tax>
+            </Fare>
+            <Fare class="CIF">
+                <BasePrice>EUR 208.00</BasePrice>
+                <Fees>EUR 26.00</Fees>
+                <Tax>EUR 20.80</Tax>
+            </Fare>
+            <Fare class="YIF">
+                <BasePrice>EUR 104.00</BasePrice>
+                <Fees>EUR 26.00</Fees>
+                <Tax>EUR 20.80</Tax>
+            </Fare>
+        </Fares>
+    </Flight>
+    <Flight>
+        <CarrierCode>EI</CarrierCode>
+        <FlightDesignator>EI461</FlightDesignator>
+        <OriginAirport>BOS</OriginAirport>
+        <DestinationAirport>LHR</DestinationAirport>
+        <DepartureDate>2014-09-14T18:43:00.000Z</DepartureDate>
+        <ArrivalDate>2014-09-14T21:22:00.000Z</ArrivalDate>
+        <Fares>
+            <Fare class="FIF">
+                <BasePrice>EUR 312.00</BasePrice>
+                <Fees>EUR 19.50</Fees>
+                <Tax>EUR 15.60</Tax>
+            </Fare>
+            <Fare class="CIF">
+                <BasePrice>EUR 156.00</BasePrice>
+                <Fees>EUR 19.50</Fees>
+                <Tax>EUR 15.60</Tax>
+            </Fare>
+            <Fare class="YIF">
+                <BasePrice>EUR 78.00</BasePrice>
+                <Fees>EUR 19.50</Fees>
+                <Tax>EUR 15.60</Tax>
+            </Fare>
+        </Fares>
+    </Flight>
+    <Flight>
+        <CarrierCode>EI</CarrierCode>
+        <FlightDesignator>EI125</FlightDesignator>
+        <OriginAirport>DUB</OriginAirport>
+        <DestinationAirport>BOS</DestinationAirport>
+        <DepartureDate>2014-09-16T01:51:00.000Z</DepartureDate>
+        <ArrivalDate>2014-09-16T06:02:00.000Z</ArrivalDate>
+        <Fares>
+            <Fare class="FIF">
+                <BasePrice>EUR 496.00</BasePrice>
+                <Fees>EUR 31.00</Fees>
+                <Tax>EUR 24.80</Tax>
+            </Fare>
+            <Fare class="CIF">
+                <BasePrice>EUR 248.00</BasePrice>
+                <Fees>EUR 31.00</Fees>
+                <Tax>EUR 24.80</Tax>
+            </Fare>
+            <Fare class="YIF">
+                <BasePrice>EUR 124.00</BasePrice>
+                <Fees>EUR 31.00</Fees>
+                <Tax>EUR 24.80</Tax>
+            </Fare>
+        </Fares>
+    </Flight>
+    <Flight>
+        <CarrierCode>EI</CarrierCode>
+        <FlightDesignator>EI80</FlightDesignator>
+        <OriginAirport>MUC</OriginAirport>
+        <DestinationAirport>LHR</DestinationAirport>
+        <DepartureDate>2014-09-16T02:35:00.000Z</DepartureDate>
+        <ArrivalDate>2014-09-16T09:00:00.000Z</ArrivalDate>
+        <Fares>
+            <Fare class="FIF">
+                <BasePrice>EUR 768.00</BasePrice>
+                <Fees>EUR 48.00</Fees>
+                <Tax>EUR 38.40</Tax>
+            </Fare>
+            <Fare class="CIF">
+                <BasePrice>EUR 384.00</BasePrice>
+                <Fees>EUR 48.00</Fees>
+                <Tax>EUR 38.40</Tax>
+            </Fare>
+            <Fare class="YIF">
+                <BasePrice>EUR 192.00</BasePrice>
+                <Fees>EUR 48.00</Fees>
+                <Tax>EUR 38.40</Tax>
+            </Fare>
+        </Fares>
+    </Flight>
+    <Flight>
+        <CarrierCode>EI</CarrierCode>
+        <FlightDesignator>EI136</FlightDesignator>
+        <OriginAirport>DUB</OriginAirport>
+        <DestinationAirport>IST</DestinationAirport>
+        <DepartureDate>2014-09-25T23:56:00.000Z</DepartureDate>
+        <ArrivalDate>2014-09-26T03:04:00.000Z</ArrivalDate>
+        <Fares>
+            <Fare class="FIF">
+                <BasePrice>EUR 752.00</BasePrice>
+                <Fees>EUR 47.00</Fees>
+                <Tax>EUR 37.60</Tax>
+            </Fare>
+            <Fare class="CIF">
+                <BasePrice>EUR 376.00</BasePrice>
+                <Fees>EUR 47.00</Fees>
+                <Tax>EUR 37.60</Tax>
+            </Fare>
+            <Fare class="YIF">
+                <BasePrice>EUR 188.00</BasePrice>
+                <Fees>EUR 47.00</Fees>
+                <Tax>EUR 37.60</Tax>
+            </Fare>
+        </Fares>
+    </Flight>
+    <Flight>
+        <CarrierCode>EI</CarrierCode>
+        <FlightDesignator>EI557</FlightDesignator>
+        <OriginAirport>IST</OriginAirport>
+        <DestinationAirport>LHR</DestinationAirport>
+        <DepartureDate>2014-10-05T06:11:00.000Z</DepartureDate>
+        <ArrivalDate>2014-10-05T09:09:00.000Z</ArrivalDate>
+        <Fares>
+            <Fare class="FIF">
+                <BasePrice>EUR 176.00</BasePrice>
+                <Fees>EUR 11.00</Fees>
+                <Tax>EUR 8.80</Tax>
+            </Fare>
+            <Fare class="CIF">
+                <BasePrice>EUR 88.00</BasePrice>
+                <Fees>EUR 11.00</Fees>
+                <Tax>EUR 8.80</Tax>
+            </Fare>
+            <Fare class="YIF">
+                <BasePrice>EUR 44.00</BasePrice>
+                <Fees>EUR 11.00</Fees>
+                <Tax>EUR 8.80</Tax>
+            </Fare>
+        </Fares>
+    </Flight>
+    <Flight>
+        <CarrierCode>EI</CarrierCode>
+        <FlightDesignator>EI402</FlightDesignator>
+        <OriginAirport>DUB</OriginAirport>
+        <DestinationAirport>BOS</DestinationAirport>
+        <DepartureDate>2014-10-07T21:49:00.000Z</DepartureDate>
+        <ArrivalDate>2014-10-08T00:16:00.000Z</ArrivalDate>
+        <Fares>
+            <Fare class="FIF">
+                <BasePrice>EUR 576.00</BasePrice>
+                <Fees>EUR 36.00</Fees>
+                <Tax>EUR 28.80</Tax>
+            </Fare>
+            <Fare class="CIF">
+                <BasePrice>EUR 288.00</BasePrice>
+                <Fees>EUR 36.00</Fees>
+                <Tax>EUR 28.80</Tax>
+            </Fare>
+            <Fare class="YIF">
+                <BasePrice>EUR 144.00</BasePrice>
+                <Fees>EUR 36.00</Fees>
+                <Tax>EUR 28.80</Tax>
+            </Fare>
+        </Fares>
+    </Flight>
+    <Flight>
+        <CarrierCode>EI</CarrierCode>
+        <FlightDesignator>EI88</FlightDesignator>
+        <OriginAirport>MUC</OriginAirport>
+        <DestinationAirport>JFK</DestinationAirport>
+        <DepartureDate>2014-10-23T13:14:00.000Z</DepartureDate>
+        <ArrivalDate>2014-10-23T15:36:00.000Z</ArrivalDate>
+        <Fares>
+            <Fare class="FIF">
+                <BasePrice>EUR 420.00</BasePrice>
+                <Fees>EUR 26.25</Fees>
+                <Tax>EUR 21.00</Tax>
+            </Fare>
+            <Fare class="CIF">
+                <BasePrice>EUR 210.00</BasePrice>
+                <Fees>EUR 26.25</Fees>
+                <Tax>EUR 21.00</Tax>
+            </Fare>
+            <Fare class="YIF">
+                <BasePrice>EUR 105.00</BasePrice>
+                <Fees>EUR 26.25</Fees>
+                <Tax>EUR 21.00</Tax>
+            </Fare>
+        </Fares>
+    </Flight>
+    <Flight>
+        <CarrierCode>EI</CarrierCode>
+        <FlightDesignator>EI308</FlightDesignator>
+        <OriginAirport>LHR</OriginAirport>
+        <DestinationAirport>DUB</DestinationAirport>
+        <DepartureDate>2014-10-23T14:19:00.000Z</DepartureDate>
+        <ArrivalDate>2014-10-23T17:49:00.000Z</ArrivalDate>
+        <Fares>
+            <Fare class="FIF">
+                <BasePrice>EUR 832.00</BasePrice>
+                <Fees>EUR 52.00</Fees>
+                <Tax>EUR 41.60</Tax>
+            </Fare>
+            <Fare class="CIF">
+                <BasePrice>EUR 416.00</BasePrice>
+                <Fees>EUR 52.00</Fees>
+                <Tax>EUR 41.60</Tax>
+            </Fare>
+            <Fare class="YIF">
+                <BasePrice>EUR 208.00</BasePrice>
+                <Fees>EUR 52.00</Fees>
+                <Tax>EUR 41.60</Tax>
+            </Fare>
+        </Fares>
+    </Flight>
+    <Flight>
+        <CarrierCode>EI</CarrierCode>
+        <FlightDesignator>EI179</FlightDesignator>
+        <OriginAirport>BOS</OriginAirport>
+        <DestinationAirport>IST</DestinationAirport>
+        <DepartureDate>2014-10-25T22:45:00.000Z</DepartureDate>
+        <ArrivalDate>2014-10-26T03:44:00.000Z</ArrivalDate>
+        <Fares>
+            <Fare class="FIF">
+                <BasePrice>EUR 888.00</BasePrice>
+                <Fees>EUR 55.50</Fees>
+                <Tax>EUR 44.40</Tax>
+            </Fare>
+            <Fare class="CIF">
+                <BasePrice>EUR 444.00</BasePrice>
+                <Fees>EUR 55.50</Fees>
+                <Tax>EUR 44.40</Tax>
+            </Fare>
+            <Fare class="YIF">
+                <BasePrice>EUR 222.00</BasePrice>
+                <Fees>EUR 55.50</Fees>
+                <Tax>EUR 44.40</Tax>
+            </Fare>
+        </Fares>
+    </Flight>
+    <Flight>
+        <CarrierCode>EI</CarrierCode>
+        <FlightDesignator>EI166</FlightDesignator>
+        <OriginAirport>LHR</OriginAirport>
+        <DestinationAirport>BOS</DestinationAirport>
+        <DepartureDate>2014-10-28T20:38:00.000Z</DepartureDate>
+        <ArrivalDate>2014-10-29T00:55:00.000Z</ArrivalDate>
+        <Fares>
+            <Fare class="FIF">
+                <BasePrice>EUR 512.00</BasePrice>
+                <Fees>EUR 32.00</Fees>
+                <Tax>EUR 25.60</Tax>
+            </Fare>
+            <Fare class="CIF">
+                <BasePrice>EUR 256.00</BasePrice>
+                <Fees>EUR 32.00</Fees>
+                <Tax>EUR 25.60</Tax>
+            </Fare>
+            <Fare class="YIF">
+                <BasePrice>EUR 128.00</BasePrice>
+                <Fees>EUR 32.00</Fees>
+                <Tax>EUR 25.60</Tax>
+            </Fare>
+        </Fares>
+    </Flight>
+    <Flight>
+        <CarrierCode>EI</CarrierCode>
+        <FlightDesignator>EI198</FlightDesignator>
+        <OriginAirport>LHR</OriginAirport>
+        <DestinationAirport>MUC</DestinationAirport>
+        <DepartureDate>2014-10-29T19:43:00.000Z</DepartureDate>
+        <ArrivalDate>2014-10-29T23:23:00.000Z</ArrivalDate>
+        <Fares>
+            <Fare class="FIF">
+                <BasePrice>EUR 660.00</BasePrice>
+                <Fees>EUR 41.25</Fees>
+                <Tax>EUR 33.00</Tax>
+            </Fare>
+            <Fare class="CIF">
+                <BasePrice>EUR 330.00</BasePrice>
+                <Fees>EUR 41.25</Fees>
+                <Tax>EUR 33.00</Tax>
+            </Fare>
+            <Fare class="YIF">
+                <BasePrice>EUR 165.00</BasePrice>
+                <Fees>EUR 41.25</Fees>
+                <Tax>EUR 33.00</Tax>
+            </Fare>
+        </Fares>
+    </Flight>
+    <Flight>
+        <CarrierCode>EI</CarrierCode>
+        <FlightDesignator>EI355</FlightDesignator>
+        <OriginAirport>JFK</OriginAirport>
+        <DestinationAirport>MUC</DestinationAirport>
+        <DepartureDate>2014-10-31T20:50:00.000Z</DepartureDate>
+        <ArrivalDate>2014-11-01T02:31:00.000Z</ArrivalDate>
+        <Fares>
+            <Fare class="FIF">
+                <BasePrice>EUR 680.00</BasePrice>
+                <Fees>EUR 42.50</Fees>
+                <Tax>EUR 34.00</Tax>
+            </Fare>
+            <Fare class="CIF">
+                <BasePrice>EUR 340.00</BasePrice>
+                <Fees>EUR 42.50</Fees>
+                <Tax>EUR 34.00</Tax>
+            </Fare>
+            <Fare class="YIF">
+                <BasePrice>EUR 170.00</BasePrice>
+                <Fees>EUR 42.50</Fees>
+                <Tax>EUR 34.00</Tax>
+            </Fare>
+        </Fares>
+    </Flight>
+    <Flight>
+        <CarrierCode>EI</CarrierCode>
+        <FlightDesignator>EI342</FlightDesignator>
+        <OriginAirport>BOS</OriginAirport>
+        <DestinationAirport>IST</DestinationAirport>
+        <DepartureDate>2014-11-02T13:43:00.000Z</DepartureDate>
+        <ArrivalDate>2014-11-02T19:03:00.000Z</ArrivalDate>
+        <Fares>
+            <Fare class="FIF">
+                <BasePrice>EUR 1280.00</BasePrice>
+                <Fees>EUR 80.00</Fees>
+                <Tax>EUR 64.00</Tax>
+            </Fare>
+            <Fare class="CIF">
+                <BasePrice>EUR 640.00</BasePrice>
+                <Fees>EUR 80.00</Fees>
+                <Tax>EUR 64.00</Tax>
+            </Fare>
+            <Fare class="YIF">
+                <BasePrice>EUR 320.00</BasePrice>
+                <Fees>EUR 80.00</Fees>
+                <Tax>EUR 64.00</Tax>
+            </Fare>
+        </Fares>
+    </Flight>
+    <Flight>
+        <CarrierCode>EI</CarrierCode>
+        <FlightDesignator>EI552</FlightDesignator>
+        <OriginAirport>LHR</OriginAirport>
+        <DestinationAirport>BOS</DestinationAirport>
+        <DepartureDate>2014-11-07T12:24:00.000Z</DepartureDate>
+        <ArrivalDate>2014-11-07T16:59:00.000Z</ArrivalDate>
+        <Fares>
+            <Fare class="FIF">
+                <BasePrice>EUR 816.00</BasePrice>
+                <Fees>EUR 51.00</Fees>
+                <Tax>EUR 40.80</Tax>
+            </Fare>
+            <Fare class="CIF">
+                <BasePrice>EUR 408.00</BasePrice>
+                <Fees>EUR 51.00</Fees>
+                <Tax>EUR 40.80</Tax>
+            </Fare>
+            <Fare class="YIF">
+                <BasePrice>EUR 204.00</BasePrice>
+                <Fees>EUR 51.00</Fees>
+                <Tax>EUR 40.80</Tax>
+            </Fare>
+        </Fares>
+    </Flight>
+    <Flight>
+        <CarrierCode>EI</CarrierCode>
+        <FlightDesignator>EI124</FlightDesignator>
+        <OriginAirport>IST</OriginAirport>
+        <DestinationAirport>JFK</DestinationAirport>
+        <DepartureDate>2014-11-07T21:48:00.000Z</DepartureDate>
+        <ArrivalDate>2014-11-08T01:20:00.000Z</ArrivalDate>
+        <Fares>
+            <Fare class="FIF">
+                <BasePrice>EUR 848.00</BasePrice>
+                <Fees>EUR 53.00</Fees>
+                <Tax>EUR 42.40</Tax>
+            </Fare>
+            <Fare class="CIF">
+                <BasePrice>EUR 424.00</BasePrice>
+                <Fees>EUR 53.00</Fees>
+                <Tax>EUR 42.40</Tax>
+            </Fare>
+            <Fare class="YIF">
+                <BasePrice>EUR 212.00</BasePrice>
+                <Fees>EUR 53.00</Fees>
+                <Tax>EUR 42.40</Tax>
+            </Fare>
+        </Fares>
+    </Flight>
+    <Flight>
+        <CarrierCode>EI</CarrierCode>
+        <FlightDesignator>EI23</FlightDesignator>
+        <OriginAirport>IST</OriginAirport>
+        <DestinationAirport>BOS</DestinationAirport>
+        <DepartureDate>2014-11-09T03:24:00.000Z</DepartureDate>
+        <ArrivalDate>2014-11-09T09:38:00.000Z</ArrivalDate>
+        <Fares>
+            <Fare class="FIF">
+                <BasePrice>EUR 372.00</BasePrice>
+                <Fees>EUR 23.25</Fees>
+                <Tax>EUR 18.60</Tax>
+            </Fare>
+            <Fare class="CIF">
+                <BasePrice>EUR 186.00</BasePrice>
+                <Fees>EUR 23.25</Fees>
+                <Tax>EUR 18.60</Tax>
+            </Fare>
+            <Fare class="YIF">
+                <BasePrice>EUR 93.00</BasePrice>
+                <Fees>EUR 23.25</Fees>
+                <Tax>EUR 18.60</Tax>
+            </Fare>
+        </Fares>
+    </Flight>
+    <Flight>
+        <CarrierCode>EI</CarrierCode>
+        <FlightDesignator>EI152</FlightDesignator>
+        <OriginAirport>IST</OriginAirport>
+        <DestinationAirport>JFK</DestinationAirport>
+        <DepartureDate>2014-11-10T23:13:00.000Z</DepartureDate>
+        <ArrivalDate>2014-11-11T03:16:00.000Z</ArrivalDate>
+        <Fares>
+            <Fare class="FIF">
+                <BasePrice>EUR 960.00</BasePrice>
+                <Fees>EUR 60.00</Fees>
+                <Tax>EUR 48.00</Tax>
+            </Fare>
+            <Fare class="CIF">
+                <BasePrice>EUR 480.00</BasePrice>
+                <Fees>EUR 60.00</Fees>
+                <Tax>EUR 48.00</Tax>
+            </Fare>
+            <Fare class="YIF">
+                <BasePrice>EUR 240.00</BasePrice>
+                <Fees>EUR 60.00</Fees>
+                <Tax>EUR 48.00</Tax>
+            </Fare>
+        </Fares>
+    </Flight>
+    <Flight>
+        <CarrierCode>EI</CarrierCode>
+        <FlightDesignator>EI449</FlightDesignator>
+        <OriginAirport>DUB</OriginAirport>
+        <DestinationAirport>JFK</DestinationAirport>
+        <DepartureDate>2014-11-20T13:39:00.000Z</DepartureDate>
+        <ArrivalDate>2014-11-20T17:36:00.000Z</ArrivalDate>
+        <Fares>
+            <Fare class="FIF">
+                <BasePrice>EUR 708.00</BasePrice>
+                <Fees>EUR 44.25</Fees>
+                <Tax>EUR 35.40</Tax>
+            </Fare>
+            <Fare class="CIF">
+                <BasePrice>EUR 354.00</BasePrice>
+                <Fees>EUR 44.25</Fees>
+                <Tax>EUR 35.40</Tax>
+            </Fare>
+            <Fare class="YIF">
+                <BasePrice>EUR 177.00</BasePrice>
+                <Fees>EUR 44.25</Fees>
+                <Tax>EUR 35.40</Tax>
+            </Fare>
+        </Fares>
+    </Flight>
+    <Flight>
+        <CarrierCode>EI</CarrierCode>
+        <FlightDesignator>EI517</FlightDesignator>
+        <OriginAirport>MUC</OriginAirport>
+        <DestinationAirport>LHR</DestinationAirport>
+        <DepartureDate>2014-11-24T17:52:00.000Z</DepartureDate>
+        <ArrivalDate>2014-11-24T20:25:00.000Z</ArrivalDate>
+        <Fares>
+            <Fare class="FIF">
+                <BasePrice>EUR 304.00</BasePrice>
+                <Fees>EUR 19.00</Fees>
+                <Tax>EUR 15.20</Tax>
+            </Fare>
+            <Fare class="CIF">
+                <BasePrice>EUR 152.00</BasePrice>
+                <Fees>EUR 19.00</Fees>
+                <Tax>EUR 15.20</Tax>
+            </Fare>
+            <Fare class="YIF">
+                <BasePrice>EUR 76.00</BasePrice>
+                <Fees>EUR 19.00</Fees>
+                <Tax>EUR 15.20</Tax>
+            </Fare>
+        </Fares>
+    </Flight>
+    <Flight>
+        <CarrierCode>EI</CarrierCode>
+        <FlightDesignator>EI158</FlightDesignator>
+        <OriginAirport>JFK</OriginAirport>
+        <DestinationAirport>MUC</DestinationAirport>
+        <DepartureDate>2014-11-28T17:45:00.000Z</DepartureDate>
+        <ArrivalDate>2014-11-28T22:26:00.000Z</ArrivalDate>
+        <Fares>
+            <Fare class="FIF">
+                <BasePrice>EUR 1120.00</BasePrice>
+                <Fees>EUR 70.00</Fees>
+                <Tax>EUR 56.00</Tax>
+            </Fare>
+            <Fare class="CIF">
+                <BasePrice>EUR 560.00</BasePrice>
+                <Fees>EUR 70.00</Fees>
+                <Tax>EUR 56.00</Tax>
+            </Fare>
+            <Fare class="YIF">
+                <BasePrice>EUR 280.00</BasePrice>
+                <Fees>EUR 70.00</Fees>
+                <Tax>EUR 56.00</Tax>
+            </Fare>
+        </Fares>
+    </Flight>
+    <Flight>
+        <CarrierCode>EI</CarrierCode>
+        <FlightDesignator>EI250</FlightDesignator>
+        <OriginAirport>JFK</OriginAirport>
+        <DestinationAirport>LHR</DestinationAirport>
+        <DepartureDate>2014-12-01T14:27:00.000Z</DepartureDate>
+        <ArrivalDate>2014-12-01T16:58:00.000Z</ArrivalDate>
+        <Fares>
+            <Fare class="FIF">
+                <BasePrice>EUR 592.00</BasePrice>
+                <Fees>EUR 37.00</Fees>
+                <Tax>EUR 29.60</Tax>
+            </Fare>
+            <Fare class="CIF">
+                <BasePrice>EUR 296.00</BasePrice>
+                <Fees>EUR 37.00</Fees>
+                <Tax>EUR 29.60</Tax>
+            </Fare>
+            <Fare class="YIF">
+                <BasePrice>EUR 148.00</BasePrice>
+                <Fees>EUR 37.00</Fees>
+                <Tax>EUR 29.60</Tax>
+            </Fare>
+        </Fares>
+    </Flight>
+    <Flight>
+        <CarrierCode>EI</CarrierCode>
+        <FlightDesignator>EI480</FlightDesignator>
+        <OriginAirport>JFK</OriginAirport>
+        <DestinationAirport>IST</DestinationAirport>
+        <DepartureDate>2014-12-07T20:57:00.000Z</DepartureDate>
+        <ArrivalDate>2014-12-07T23:01:00.000Z</ArrivalDate>
+        <Fares>
+            <Fare class="FIF">
+                <BasePrice>EUR 248.00</BasePrice>
+                <Fees>EUR 15.50</Fees>
+                <Tax>EUR 12.40</Tax>
+            </Fare>
+            <Fare class="CIF">
+                <BasePrice>EUR 124.00</BasePrice>
+                <Fees>EUR 15.50</Fees>
+                <Tax>EUR 12.40</Tax>
+            </Fare>
+            <Fare class="YIF">
+                <BasePrice>EUR 62.00</BasePrice>
+                <Fees>EUR 15.50</Fees>
+                <Tax>EUR 12.40</Tax>
+            </Fare>
+        </Fares>
+    </Flight>
+    <Flight>
+        <CarrierCode>EI</CarrierCode>
+        <FlightDesignator>EI13</FlightDesignator>
+        <OriginAirport>LHR</OriginAirport>
+        <DestinationAirport>BOS</DestinationAirport>
+        <DepartureDate>2014-12-09T22:57:00.000Z</DepartureDate>
+        <ArrivalDate>2014-12-10T04:20:00.000Z</ArrivalDate>
+        <Fares>
+            <Fare class="FIF">
+                <BasePrice>EUR 320.00</BasePrice>
+                <Fees>EUR 20.00</Fees>
+                <Tax>EUR 16.00</Tax>
+            </Fare>
+            <Fare class="CIF">
+                <BasePrice>EUR 160.00</BasePrice>
+                <Fees>EUR 20.00</Fees>
+                <Tax>EUR 16.00</Tax>
+            </Fare>
+            <Fare class="YIF">
+                <BasePrice>EUR 80.00</BasePrice>
+                <Fees>EUR 20.00</Fees>
+                <Tax>EUR 16.00</Tax>
+            </Fare>
+        </Fares>
+    </Flight>
+    <Flight>
+        <CarrierCode>EI</CarrierCode>
+        <FlightDesignator>EI440</FlightDesignator>
+        <OriginAirport>DUB</OriginAirport>
+        <DestinationAirport>IST</DestinationAirport>
+        <DepartureDate>2014-12-10T04:36:00.000Z</DepartureDate>
+        <ArrivalDate>2014-12-10T08:17:00.000Z</ArrivalDate>
+        <Fares>
+            <Fare class="FIF">
+                <BasePrice>EUR 660.00</BasePrice>
+                <Fees>EUR 41.25</Fees>
+                <Tax>EUR 33.00</Tax>
+            </Fare>
+            <Fare class="CIF">
+                <BasePrice>EUR 330.00</BasePrice>
+                <Fees>EUR 41.25</Fees>
+                <Tax>EUR 33.00</Tax>
+            </Fare>
+            <Fare class="YIF">
+                <BasePrice>EUR 165.00</BasePrice>
+                <Fees>EUR 41.25</Fees>
+                <Tax>EUR 33.00</Tax>
+            </Fare>
+        </Fares>
+    </Flight>
+    <Flight>
+        <CarrierCode>EI</CarrierCode>
+        <FlightDesignator>EI181</FlightDesignator>
+        <OriginAirport>LHR</OriginAirport>
+        <DestinationAirport>IST</DestinationAirport>
+        <DepartureDate>2014-12-21T07:41:00.000Z</DepartureDate>
+        <ArrivalDate>2014-12-21T10:31:00.000Z</ArrivalDate>
+        <Fares>
+            <Fare class="FIF">
+                <BasePrice>EUR 672.00</BasePrice>
+                <Fees>EUR 42.00</Fees>
+                <Tax>EUR 33.60</Tax>
+            </Fare>
+            <Fare class="CIF">
+                <BasePrice>EUR 336.00</BasePrice>
+                <Fees>EUR 42.00</Fees>
+                <Tax>EUR 33.60</Tax>
+            </Fare>
+            <Fare class="YIF">
+                <BasePrice>EUR 168.00</BasePrice>
+                <Fees>EUR 42.00</Fees>
+                <Tax>EUR 33.60</Tax>
+            </Fare>
+        </Fares>
+    </Flight>
+    <Flight>
+        <CarrierCode>EI</CarrierCode>
+        <FlightDesignator>EI56</FlightDesignator>
+        <OriginAirport>MUC</OriginAirport>
+        <DestinationAirport>BOS</DestinationAirport>
+        <DepartureDate>2014-12-26T17:42:00.000Z</DepartureDate>
+        <ArrivalDate>2014-12-26T23:24:00.000Z</ArrivalDate>
+        <Fares>
+            <Fare class="FIF">
+                <BasePrice>EUR 680.00</BasePrice>
+                <Fees>EUR 42.50</Fees>
+                <Tax>EUR 34.00</Tax>
+            </Fare>
+            <Fare class="CIF">
+                <BasePrice>EUR 340.00</BasePrice>
+                <Fees>EUR 42.50</Fees>
+                <Tax>EUR 34.00</Tax>
+            </Fare>
+            <Fare class="YIF">
+                <BasePrice>EUR 170.00</BasePrice>
+                <Fees>EUR 42.50</Fees>
+                <Tax>EUR 34.00</Tax>
+            </Fare>
+        </Fares>
+    </Flight>
+    <Flight>
+        <CarrierCode>EI</CarrierCode>
+        <FlightDesignator>EI309</FlightDesignator>
+        <OriginAirport>BOS</OriginAirport>
+        <DestinationAirport>MUC</DestinationAirport>
+        <DepartureDate>2014-12-28T07:11:00.000Z</DepartureDate>
+        <ArrivalDate>2014-12-28T13:41:00.000Z</ArrivalDate>
+        <Fares>
+            <Fare class="FIF">
+                <BasePrice>EUR 776.00</BasePrice>
+                <Fees>EUR 48.50</Fees>
+                <Tax>EUR 38.80</Tax>
+            </Fare>
+            <Fare class="CIF">
+                <BasePrice>EUR 388.00</BasePrice>
+                <Fees>EUR 48.50</Fees>
+                <Tax>EUR 38.80</Tax>
+            </Fare>
+            <Fare class="YIF">
+                <BasePrice>EUR 194.00</BasePrice>
+                <Fees>EUR 48.50</Fees>
+                <Tax>EUR 38.80</Tax>
+            </Fare>
+        </Fares>
+    </Flight>
+</Availability>
